@@ -1,0 +1,64 @@
+Las Matematicas,01,1
+Las Ciencias,02,2
+El Profesor Nery,03,3
+La Matematica,04,4
+El Filosofo,05,5
+El Biologo,06,6
+Baile Folklorico,07,7
+La Tecnologia,08,8
+La Ingenieria,09,9
+El Informatico,10,10
+La Chancla,11,11
+El Templo,12,12
+Los Tacos,13,13
+El Vaporub,14,14
+El Platano,15,15
+La Hierba Santa,16,16
+El Calendario,17,17
+Los Tamales,18,18
+El Pozole,19,19
+El Pan Dulce,20,20
+El Chocolate Abuelita,21,21
+El Astronauta,22,22
+Los Estudiantes,23,23
+La Computadora,24,24
+El Celular,25,25
+El Microscopio,26,26
+La Calculadora,27,27
+La Biologia,28,28
+La Quimica,29,29
+La Celula,30,30
+El Cerebro,31,31
+Los Lentes,32,32
+La Desvelada,33,33
+El Cafe,34,34
+La Tabla Periodica,35,35
+La Fisica,36,36
+La Pinata,37,37
+Las Botas,38,38
+Quetzalcoatl,39,39
+La Musica,40,40
+Los Frijoles,41,41
+El Aguacate,42,42
+El Cempasuchil,43,43
+Las Aguas Frescas,44,44
+La Catrina,45,45
+Huitzilopochtli,46,46
+Las Pupusas,47,47
+Las Tortillas,48,48
+El Tajin,49,49
+Los Raspados,50,50
+El Tapatio,51,51
+El Nopal,52,52
+La Milpa,53,53
+El Champurrado,54,54
+La Enfermera,55,55
+Elotes Preparados,56,56
+Los Tostilocos,57,57
+Los Limones,58,58
+La Fruta con Chile,59,59
+El Club,60,60
+Los Hot Chetos,61,61
+La Ingeniera,62,62
+El Robot,63,63
+La Nave Espacial,64,64
